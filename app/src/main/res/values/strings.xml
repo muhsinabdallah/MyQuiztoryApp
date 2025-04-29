@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My QuiztoryApp</string>
+    <string name="my_instruction">Quiztory tests your knowledge of Ancient Egypt! Answer 10 multiple-choice questions, each worth 1 point. Your final score will be displayed on the results page, and the highest score is updated when surpassed. Are you ready to challenge yourself?</string>
+</resources>
